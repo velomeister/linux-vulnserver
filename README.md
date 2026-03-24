@@ -60,4 +60,4 @@ Other commands (`GTER`, `KSTET`, `LTER`, `GMON`) trigger similar vulnerabilities
 Original vulnserver by **Stephen Bradshaw** — [thegreycorner.com](http://www.thegreycorner.com/)
 Source: https://github.com/stephenbradshaw/vulnserver
 
-This Linux port was created for the **Security and Testing in Information Technology (SPTI)** course at ECI.
+This Linux port was created for the **Security and Testing in Information Technology (SPTI)** course at the Escuela Colombiana de Ingenieria Julio Garavito.
